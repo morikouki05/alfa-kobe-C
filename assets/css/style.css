@@ -178,7 +178,7 @@ button {
   content: '';
   width: calc(100% - 60px);
   height: 7px;
-  background-color: #18a8cc;
+  background-color: #2193af;
   position: absolute;
   top: -10px;
   left: 30px;
@@ -246,11 +246,11 @@ button {
 }
 
 .bg-color--subcolor {
-  background-color: #000266;
+  background-color: #1f219b;
 }
 
 .bg-color--gray {
-  background-color: #000155;
+  background-color: #2b4c94;
 }
 
 /*********************
@@ -267,7 +267,7 @@ button {
 }
 
 .sub-title__bg {
-  background-color: #0011ff;
+  background-color: #2029a1;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -433,7 +433,7 @@ button {
 }
 
 .stage-column__container + .stage-column__container {
-  border-top: 2px solid rgb(0, 0, 0);
+  border-top: 2px solid rgb(0, 68, 124);
 }
 
 .answer {
@@ -456,7 +456,7 @@ button {
 }
 
 .clear-message {
-  background-color: #212ee0;
+  background-color: #1c26b4;
   padding: 30px 30px 60px;
   position: relative;
 }
@@ -465,7 +465,7 @@ button {
   position: relative;
   display: block;
   text-align: center;
-  color: #84ffff;
+  color: #28b9b9;
   font-size: 30px;
   padding-bottom: 10px;
   margin-bottom: 35px;
